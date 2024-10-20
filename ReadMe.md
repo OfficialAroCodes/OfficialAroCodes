@@ -36,10 +36,10 @@ I'm a Full-Stack Developer with 5-6 year experiance!
 
 ### Support Me
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arocodesw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<a href="https://www.buymeacoffee.com/arocodesw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/arocodes"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<a href="https://www.ko-fi.com/arocodes"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
 </div>
