@@ -32,6 +32,8 @@ I'm a Full-Stack Developer with 5-6 year experiance!
 
 <div width="100%" align="center"><a href="https://github.com/OfficialAroCodes/Popup-On-Page-Load" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialAroCodes&repo=Popup-On-Page-Load&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/OfficialAroCodes/Footer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialAroCodes&repo=Footer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+<br /><br /><br /><br /><br /><br /><br />
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
