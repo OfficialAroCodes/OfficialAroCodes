@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is AroCodes and I'm a Full-Stack Developer, from Armenia</h2>
 
 ###
 
@@ -65,7 +65,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/OfficialAroCodes/OfficialAroCodes/output/snake.svg" alt="Snake animation" />
 
 ###
