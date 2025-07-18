@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is AroCodes and I'm a Full-Stack Developer, from Armenia</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=26&pause=1000&color=62C1CA&width=435&height=40&lines=Full-Stack+Developer;Official+AroCodes" alt="Typing SVG" /></a>
+<h2 align="left">Hi 👋! I'm AroCodes and I'm a Full-Stack Developer, from Armenia</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Gesit+Mono&weight=500&pause=1000&color=FFECE5&random=true&width=435&lines=AroCodes+Official+Github;Full-Stack+Developer;Software+Engineer" alt="Typing SVG" />
 
 ###
 
-<img align="right" height="150" src="https://yt3.ggpht.com/Rm8qvuCb1HKcdroNZFDKdGoaiEEuGwFIB4n1j-CL7s7MaBVfKugZwg2RI3RBEBLAS6r85zuBxA=s176-c-k-c0x00ffffff-no-rj-mo"  />
 
 ###
 
@@ -35,7 +35,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@Official_AroCodes"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="mailto:arocodes@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://t.me/arocodes_dev"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
   <a href="https://kwork.ru/user/arocodes"><img src="https://img.shields.io/static/v1?message=Kwork&logo=kwork&label=&color=ffa800&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kwork"  /></a>
